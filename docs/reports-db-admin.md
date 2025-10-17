@@ -36,3 +36,5 @@ contender admin seed
 # last run id
 contender admin latest-run-id
 ```
+
+<!-- Auto-update: 2025-10-17T13:28:23.225442 -->
